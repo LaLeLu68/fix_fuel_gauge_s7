@@ -8,3 +8,4 @@
 # LaLeLu68 2020
 
 echo "1" > /sys/devices/battery/power_supply/battery/fg_reset_cap
+echo "1" > /sys/devices/battery/power_supply/battery/batt_reset_soc
